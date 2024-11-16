@@ -1,6 +1,6 @@
 // API configuration
 const apiHost = 'api.openweathermap.org'; // OpenWeatherMap API host
-const apiKey = '20743b1868d48b41d80c78d2f6c73391'; // Your OpenWeatherMap API key
+const apiKey = ''; // Your OpenWeatherMap API key
 
 // Function to get weather and forecast
 async function getWeather() {
